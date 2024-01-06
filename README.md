@@ -3,3 +3,5 @@
 - muokkaa sivustoa
 - laita tekstiä sivustolale
 - hienoja kuvia <3
+-karuselli nettisivulle
+-burgeri menu nettisivulle
