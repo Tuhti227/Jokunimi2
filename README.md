@@ -1,1 +1,5 @@
-# Jokunimi2
+- Tee sivusto
+- julkaise sivusto
+- muokkaa sivustoa
+- laita tekstiä sivustolale
+- hienoja kuvia <3
